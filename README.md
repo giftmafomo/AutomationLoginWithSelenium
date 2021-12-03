@@ -48,6 +48,36 @@ You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][2.2]][2]
 [1]: https://www.facebook.com/mahlatsegiftmafomo
 [2]: https://www.linkedin.com/in/giftmahlatsemafomo/
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: https://i.imgur.com/PXyIkWx.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.facebook.com/mahlatsegiftmafomo
+[2]: http://www.github.com/giftmafomo
+[3]: https://www.linkedin.com/in/giftmahlatsemafomo/
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ## License:
 
 [MIT License](https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1) 
