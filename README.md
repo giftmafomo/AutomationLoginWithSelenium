@@ -9,14 +9,13 @@ Selenium is an open-source automated test software used to validate web applicat
 Xpath is simply a technique in Selenium that basically allows you to navigate the structure of a webpage’s HTML. XPath is a syntax for finding elements on web pages. You can locate elemets that are not found e.g id, class, or name using UXPath in Selenium.
 To learn more on how to navigate a website with the use of xpath click [here](https://www.perfecto.io/blog/xpath-in-selenium). 
 
-** In this project will try to do  automate login test in the following social platform (websites) using python language: **
-
+#### In this project will try to do  automate login test in the following social platform (websites) using python language:
 1. Github     
 2. Facebook  
 3. Instagram 
 4. Tiktok   
 5. LinkedIn  
-6. Twitter ** 
+6. Twitter 
 
 ## Installation package:
 
