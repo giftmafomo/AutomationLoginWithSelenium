@@ -1,21 +1,39 @@
 # Automation Login With Selenium
 
+<p align="center">
+   
+  <a href="(https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1)">
+    <img alt="License: MIT" src="(https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1)" target="_blank" />
+  </a>
+  
+  <a href="https://twitter.com/mafomo_gift">
+    <img alt="Twitter: Gift Mafomo" src="https://img.shields.io/twitter/follow/mafomo_gift.svg?style=social" target="_blank" />
+  </a>
+</p>
+
+
 ## Introduction:
+
+
 
 ### What is selenium
 Selenium is an open-source automated test software used to validate web applications across different browsers like Chrome, Firefox, Opera, Safari, microsoft edge and Internet Explorer. It can be used in different programming languages such as python, C#, java, ruby, and javascript to create Selenium test scripts. Testing done using the Selenium testing tool is usually referred to as Selenium Testing.
 
 ### What is XPath in Selenium
-Xpath is simply a technique in Selenium that basically allows you to navigate the structure of a webpage’s HTML. XPath is a syntax for finding elements on web pages. You can locate elemets that are not found e.g id, class, or name using UXPath in Selenium.
-To learn more on how to navigate a website with the use of xpath click [here](https://www.perfecto.io/blog/xpath-in-selenium). 
+* Xpath is simply a technique in Selenium that basically allows you to navigate the structure of a webpage’s HTML. 
+* XPath is a syntax for finding elements on web pages. 
+* You can locate elemets that are not found e.g id, class, or name using UXPath in Selenium.
+ 
+To learn more on how to navigate a website with the use of xpath visit [here](https://www.perfecto.io/blog/xpath-in-selenium) 
 
-#### In this project will try to do  automate login test in the following social platform (websites) using python language:
-1. Github     
-2. Facebook  
-3. Instagram 
-4. Tiktok   
-5. LinkedIn  
-6. Twitter 
+### In the following social platform will do selenium automate login test and xpath will be often used througout to enable us to navigate the element such as id :
+
+:diamonds: Github      
+:diamonds: Facebook   
+:diamonds: Instagram   
+:diamonds: Tiktok    
+:diamonds: LinkedIn   
+:diamonds: Twitter   
 
 ## Installation package:
 
@@ -33,11 +51,15 @@ If you do you not have chromedriver.exe in your path folk, kindly download [here
 
 ## Author:
 
-- [Mahlatse G. Mafomo](https://github.com/giftmafomo)
+Mahlatse G. Mafomo  
+Github : https://github.com/giftmafomo  
+Email  : mahlatsemafomo@hotmail.com  
+
 
 <!-- display the social media buttons in your README -->
-
+For more connect with me here 
 [![Twitter][1.1]][1]
+or, and on
 [![Facebook][2.1]][2]
 
 
