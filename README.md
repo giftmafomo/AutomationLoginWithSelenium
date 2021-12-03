@@ -2,8 +2,9 @@
 
 <p align="center">
    
+ <img src="https://img.shields.io/pypi/pyversions/see?style=plastic)" />  
   <a href="(https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1)">
-    <img alt="License: MIT" src="(https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1)" target="_blank" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
   
   <a href="https://twitter.com/mafomo_gift">
