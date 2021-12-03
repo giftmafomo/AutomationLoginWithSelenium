@@ -41,11 +41,10 @@ If you do you not have chromedriver.exe in your path folk, kindly download [here
 You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
-[1.2]: https://cdn-icons-png.flaticon.com/512/145/145802.png (twitter icon without padding)
-[2.2]:https://cdn-icons-png.flaticon.com/512/145/145807.png (LinkedIn icon without padding)
+[1.2]: https://cdn-icons-png.flaticon.com/512/145/145802.png (facebook icon with padding)
+[2.2]:https://cdn-icons-png.flaticon.com/512/145/145807.png (LinkedIn icon with padding)
 
 <!-- Links to your social media accounts -->
-j
 [1]: https://www.facebook.com/mahlatsegiftmafomo
 [2]: https://www.linkedin.com/in/giftmahlatsemafomo/
 
