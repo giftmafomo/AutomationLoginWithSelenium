@@ -36,25 +36,11 @@ If you do you not have chromedriver.exe in your path folk, kindly download [here
 
 - [Mahlatse G. Mafomo](https://github.com/giftmafomo)
 
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][2.2]][2]
-
-<!-- Icons -->
-[1.2]: https://cdn-icons-png.flaticon.com/512/145/145802.png (facebook icon with padding)
-[2.2]:https://cdn-icons-png.flaticon.com/512/145/145807.png (LinkedIn icon with padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.facebook.com/mahlatsegiftmafomo
-[2]: https://www.linkedin.com/in/giftmahlatsemafomo/
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![Twitter][1.1]][1]
+[![Facebook][2.1]][2]
+[![Github][3.1]][3]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -76,7 +62,8 @@ You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][2.2]][2]
 
 [1]: http://www.facebook.com/mahlatsegiftmafomo
 [2]: http://www.github.com/giftmafomo
-[3]: https://www.linkedin.com/in/giftmahlatsemafomo/
+[3]: https://www.linkedin.com/in/giftmahlatsemafomo
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ## License:
 
