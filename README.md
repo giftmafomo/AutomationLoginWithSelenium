@@ -40,7 +40,7 @@ If you do you not have chromedriver.exe in your path folk, kindly download [here
 
 [![Twitter][1.1]][1]
 [![Facebook][2.1]][2]
-[![Github][3.1]][3]
+[![Linkedin][3.1]][3]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -49,19 +49,18 @@ If you do you not have chromedriver.exe in your path folk, kindly download [here
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[3.1]: https://i.imgur.com/0IdggSZ.png (linkedin icon with padding)
 
 <!-- icons without padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: https://i.imgur.com/PXyIkWx.png (github icon without padding)
-
+[3.2]: https://i.imgur.com/rwYRqn6.png (linkedin icon without padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.facebook.com/mahlatsegiftmafomo
-[2]: http://www.github.com/giftmafomo
+[1]: http://www.twitter.com/mafomo_gifted
+[2]: http://www.facebook.com/mahlatsegiftmafomo
 [3]: https://www.linkedin.com/in/giftmahlatsemafomo
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
