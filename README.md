@@ -63,6 +63,5 @@ If you do you not have chromedriver.exe in your path folk, kindly download [here
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ## License:
-<% if (gift && giftmafomo) { -%> Copyright © <%= currentYear %> [<%= authorName %>](https://github.com/<%= giftmafomo %>).
-<% } -%> This project is <%= MIT License %> licensed. <% } -%>
-[MIT License](https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1) 
+This project is licensed by [MIT License](https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1)<br/> 
+Copyright @ 2021
