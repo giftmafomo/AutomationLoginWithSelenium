@@ -18,17 +18,16 @@
 
 
 ### What is selenium
-Selenium is an open-source automated test software used to validate web applications across different browsers like Chrome, Firefox, Opera, Safari, microsoft edge and Internet Explorer. It can be used in different programming languages such as python, C#, java, ruby, and javascript to create Selenium test scripts. Testing done using the Selenium testing tool is usually referred to as Selenium Testing.
+**Selenium** is an open-source automated test software used to validate web applications across different browsers like **Chrome, Firefox, Opera, Safari, microsoft edge and Internet Explorer**. It can be used in different programming languages such as **python, C#, java, ruby, and javascript** to create Selenium test scripts. Testing done using the Selenium testing tool is usually referred to as Selenium Testing.
 
-### What is XPath in Selenium
-* Xpath is simply a technique in Selenium that basically allows you to navigate the structure of a webpage’s HTML. 
+#### XPath in Selenium
+* **Xpath** is simply a technique in Selenium that basically allows you to navigate the structure of a webpage’s HTML. 
 * XPath is a syntax for finding elements on web pages. 
 * You can locate elemets that are not found e.g id, class, or name using UXPath in Selenium.
  
-To learn more on how to navigate a website with the use of xpath visit [here](https://www.perfecto.io/blog/xpath-in-selenium) 
+*To learn more on how to navigate a website with the use of xpath visit [here](https://www.perfecto.io/blog/xpath-in-selenium)* 
 
-### In the following social platform will do selenium automate login test and xpath will be often used througout to enable us to navigate the element such as id :
-
+#### In the following social platforms will do selenium automate login test, and will inspect the desired elements e.g id  in HTML and copy their xpath as such the project results will be that the website be in control with automate software without humam interference, how cool is that :star_struck:
 :diamonds: Github      
 :diamonds: Facebook   
 :diamonds: Instagram   
@@ -36,7 +35,7 @@ To learn more on how to navigate a website with the use of xpath visit [here](ht
 :diamonds: LinkedIn   
 :diamonds: Twitter   
 
-## Installation package:
+## Installation:
 
 ### Installaling selenenium library
 
@@ -87,4 +86,4 @@ or, and on
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ## License:
 This project is licensed by [MIT License](https://github.com/giftmafomo/website--login-with-selenium/blob/fdd79685000abf22906e369fd9377b2ce0b3476b/LICENSE#L1)<br/> 
-Copyright @ 2021
+Copyright © 2021
