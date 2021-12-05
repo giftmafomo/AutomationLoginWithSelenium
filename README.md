@@ -47,13 +47,13 @@ You can opt to install the package by a whl file. If you're not sure which to ch
 
 N.B Will be using chrome as our choice browser 
 chromedriver path will be used to instantiate the program. 
-If you do you not have chromedriver.exe in your path folk, kindly download [here](https://chromedriver.chromium.org/downloads) the chromedriver which correspond with your chrome browser version.
+If you do not have chromedriver.exe in your path, kindly download [here](https://chromedriver.chromium.org/downloads) the chromedriver which correspond with your chrome browser version.
 
 ## Author:
 
-Mahlatse G. Mafomo  
-Github : https://github.com/giftmafomo  
-Email  : mahlatsemafomo@hotmail.com  
+**Mahlatse G. Mafomo**  
+**Github** : https://github.com/giftmafomo  
+**Email**  : mahlatsemafomo@hotmail.com  
 
 
 <!-- display the social media buttons in your README -->
